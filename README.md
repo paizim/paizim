@@ -44,12 +44,10 @@ Eu me chamo Pedro Isaac, tenho 23 anos e moro em Recife. Atualmente estou cursan
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<img 
     align="left"
     alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=paizim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"          
-  />
-</p>
+    src="https://github-readme-stats.vercel.app/api?username=paizim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_seconds=1800&token=GITHUB_TOKEN_AQUI"          
+/>

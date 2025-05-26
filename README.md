@@ -3,7 +3,7 @@
 
 Olá! Meu nome é Pedro Isaac e sou estudante de Engenharia da Computação na Universidade de Pernambuco (POLI/UPE), em Recife.
 
-Tenho interesse em desenvolvimento de software com foco em back-end, utilizando principalmente as linguagens Java, Python e C. Estou construindo uma base sólida em programação e arquitetura de sistemas, com ênfase em eficiência, inovação e aplicabilidade prática.
+Tenho interesse em desenvolvimento de software com foco em back-end, utilizando principalmente as linguagens Java e Python. Estou construindo uma base sólida em programação e arquitetura de sistemas, com ênfase em eficiência, inovação e aplicabilidade prática.
 
 Este repositório reúne meus projetos, estudos e contribuições, refletindo meu desenvolvimento técnico e minha busca por soluções que agreguem valor de forma clara e objetiva.
 

@@ -1,7 +1,14 @@
 # 🦍 Pedro Isaac 
 **`Desenvolvedor Back-end`**
 
-Eu me chamo Pedro Isaac, tenho 23 anos e moro em Recife. Atualmente estou cursando engenharia da computação na Universidade Estadual de Pernambuco (Poli).Tenho grande interesse em desenvolvimento de software e inovações tecnológicas e meu perfil profissional é "[Pedro Isaac](https://www.linkedin.com/in/pedro-isaac-vieira-oliveira/)".
+Olá! Meu nome é Pedro Isaac e sou estudante de Engenharia da Computação na Universidade de Pernambuco (POLI/UPE), em Recife.
+
+Tenho interesse em desenvolvimento de software com foco em back-end, utilizando principalmente as linguagens Java, Python e C. Estou construindo uma base sólida em programação e arquitetura de sistemas, com ênfase em eficiência, inovação e aplicabilidade prática.
+
+Este repositório reúne meus projetos, estudos e contribuições, refletindo meu desenvolvimento técnico e minha busca por soluções que agreguem valor de forma clara e objetiva.
+
+Contato
+	•  "[Pedro Isaac](https://www.linkedin.com/in/pedro-isaac-vieira-oliveira/)".
 
 <p align="left">
       <a href="https://github.com/paizim?tab=followers">
